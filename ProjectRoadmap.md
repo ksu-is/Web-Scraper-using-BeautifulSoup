@@ -15,10 +15,10 @@
 
 ## Sprint 2
 
-- [ ] Start coding core project features.
+- [x] Start coding core project features.
 - [ ] Make at least 6 meaningful code commits (explain each change).
-- [ ] Use GitHub Desktop or VS Code for commits.
-- [ ] Keep `projectroadmap.md` updated with task progress.
+- [x] Use GitHub Desktop or VS Code for commits.
+- [x] Keep `projectroadmap.md` updated with task progress.
 - [ ] Add checkboxes and "DONE" to track completed items.
 - [ ] Ensure repository is public and professor can view progress.
 - [ ] Submit Sprint 2 log in D2L.
