@@ -25,18 +25,18 @@ VergeScraper is a Python-based web scraper that extracts the latest article head
    cd verge-scraper
 
 3. Run the script:
-   python VergeScraper.py
+   python .\VergeScraper.py (*PowerShell 7 syntax*)
 
 ## Files
 
-- VergeScraper.py - main Python script
+- [VergeScraper](VergeScraper).py - main Python script
 - README.md - project overview
-- projectroadmap.md - sprint task tracking and updates
+- [Project Roadmap](projectroadmap.md) - sprint task tracking and updates
 
 ## Notes
 
 - Output CSV files will be named like `theverge_headlines_YYYY-MM-DD_HH-MM.csv`.
-- See (Project Roadmap)[projectroadmap.md] for sprint task progress and planning.
+- See [Project Roadmap](projectroadmap.md) for sprint task progress and planning.
 - Ensure you have the required libraries installed: `requests`, `beautifulsoup4`.
 
 ## Web-Scraper-using-BeautifulSoup
