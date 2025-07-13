@@ -1,37 +1,33 @@
 # Project Roadmap
 
-## Sprint 1
+## Sprint 1 - 7/14
 
 - [x] Choose a project topic and complete Ex 6.
 - [x] Accept invite and join the KSU-IS GitHub organization.
 - [x] Transfer or create project repository within KSU-IS.
 - [ ] Ensure Maintainer access to the repository.
 - [x] Create and update `README.md`.
-- [x] Create `projectroadmap.md` and begin documenting tasks.
+- [x] Create `ProjectRoadmap.md` and begin documenting tasks.
 - [ ] Explore at least one related Python codebase.
-- [ ] Document related Python codebase evaluation in `projectroadmap.md`.
+- [ ] Document related Python codebase evaluation in `ProjectRoadmap.md`.
 
 ---
 
-## Sprint 2
+## Sprint 2 - 7/18
 
 - [x] Start coding core project features.
 - [ ] Make at least 6 meaningful code commits (explain each change).
 - [x] Use GitHub Desktop or VS Code for commits.
-- [x] Keep `projectroadmap.md` updated with task progress.
-- [ ] Add checkboxes and "DONE" to track completed items.
-- [ ] Ensure repository is public and professor can view progress.
-- [ ] Submit Sprint 2 log in D2L.
+- [x] Write clear and specific commit messages
+- [x] Track progress in projectroadmap.md using checkboxes
+- [ ] Update or add tasks as needed
 
 ---
 
-## Sprint 3
+## Sprint 3 - 7/23
 
-- [ ] Continue coding and refining functionality.
-- [ ] Add features or expand scope if initial scope was too small.
-- [ ] Test project thoroughly and document any issues/resolutions.
-- [ ] Update `projectroadmap.md` with latest progress.
-- [ ] Create and commit a project marketing slide (PPT).
-- [ ] Upload slide to D2L and GitHub repo.
-- [ ] Record and upload your project presentation to Teams and GitHub.
-- [ ] Submit final evidence to D2L.
+- [ ] Refine and test project features
+- [ ] Expand scope if needed
+- [ ] Update projectroadmap.md with progress
+- [ ] Create a one-slide PowerPoint introducing the project
+- [ ] Upload slide to D2L and GitHub repository
