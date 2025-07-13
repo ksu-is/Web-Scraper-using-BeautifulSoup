@@ -31,12 +31,12 @@ VergeScraper is a Python-based web scraper that extracts the latest article head
 
 - [VergeScraper](VergeScraper).py - main Python script
 - README.md - project overview
-- [Project Roadmap](projectroadmap.md) - sprint task tracking and updates
+- [Project Roadmap](ProjectRoadmap.md) - sprint task tracking and updates
 
 ## Notes
 
 - Output CSV files will be named like `theverge_headlines_YYYY-MM-DD_HH-MM.csv`.
-- See [Project Roadmap](projectroadmap.md) for sprint task progress and planning.
+- See [Project Roadmap](ProjectRoadmap.md) for sprint task progress and planning.
 - Ensure you have the required libraries installed: `requests`, `beautifulsoup4`.
 
 ## Web-Scraper-using-BeautifulSoup
