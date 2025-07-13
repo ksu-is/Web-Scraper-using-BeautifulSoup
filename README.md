@@ -8,7 +8,7 @@ This is a fork of [mfakharealam's](https://github.com/mfakharealam/Web-Scraper-u
 
 # Project Title: VergeScraper
 
-Author: [Your Name]  
+Author: Norman McCord  
 Course: IS 3020 Application Development  
 Semester: Summer 2025  
 
