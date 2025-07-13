@@ -1,11 +1,3 @@
-*In-work*
-# Web-Scraper-using-BeautifulSoup
-Web Scraping done using python and beautifulsoup4 - Beginner level
-
-Just for the basic understanding of how the scraper works.
-
-This is a fork of [mfakharealam's](https://github.com/mfakharealam/Web-Scraper-using-BeautifulSoup) project.  I'm working to remove the reliance on H2 headers or other CSS attributes as these methods of SEO are being used less on webpages.  This pulls heaadlines and URLs from theverge.com only.    
-
 # Project Title: VergeScraper
 
 Author: Norman McCord  
@@ -47,3 +39,7 @@ VergeScraper is a Python-based web scraper that extracts the latest article head
 - See (Project Roadmap)[projectroadmap.md] for sprint task progress and planning.
 - Ensure you have the required libraries installed: `requests`, `beautifulsoup4`.
 
+## Web-Scraper-using-BeautifulSoup
+Web Scraping done using python and beautifulsoup4
+
+This is a fork of [mfakharealam's](https://github.com/mfakharealam/Web-Scraper-using-BeautifulSoup) project.  I'm working to remove the reliance on H2 headers or other CSS attributes as these methods of SEO are being used less on webpages.  This pulls heaadlines and URLs from theverge.com only.    
