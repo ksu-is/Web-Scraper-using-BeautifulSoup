@@ -8,7 +8,7 @@
 - [ ] Ensure Maintainer access to the repository.
 - [x] Create and update `README.md`.
 - [x] Create `ProjectRoadmap.md` and begin documenting tasks.
-- [ ] Explore at least one related Python codebase.
+- [x] Explore at least one related Python codebase.
 - [ ] Document related Python codebase evaluation in `ProjectRoadmap.md`.
 
 ---
