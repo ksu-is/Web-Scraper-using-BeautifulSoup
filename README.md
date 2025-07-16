@@ -38,6 +38,7 @@ VergeScraper is a Python-based web scraper that extracts the latest article head
 - Output CSV files will be named like `theverge_headlines_YYYY-MM-DD_HH-MM.csv`.
 - See [Project Roadmap](ProjectRoadmap.md) for sprint task progress and planning.
 - Ensure you have the required libraries installed: `requests`, `beautifulsoup4`.
+- **Following 7/16 update, code outputs to a Word document instead of csv.  Naming convention is the same except for filetype.**
 
 ## Web-Scraper-using-BeautifulSoup
 Web Scraping done using python and beautifulsoup4
