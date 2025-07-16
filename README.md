@@ -29,7 +29,7 @@ VergeScraper is a Python-based web scraper that extracts the latest article head
 
 ## Files
 
-- [VergeScraper](VergeScraper).py - main Python script
+- [VergeScraper](VergeScraper.py) - main Python script
 - README.md - project overview
 - [Project Roadmap](ProjectRoadmap.md) - sprint task tracking and updates
 
