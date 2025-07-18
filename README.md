@@ -19,13 +19,12 @@ VergeScraper is a Python-based web scraper that extracts the latest article head
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/KSU-IS/verge-scraper.git
+   git clone https://github.com/ksu-is/Web-Scraper-using-BeautifulSoup.git
 
-2. Navigate to the project folder:
-   cd verge-scraper
+2. Navigate to the project folder on your system.
 
 3. Run the script:
-   python .\VergeScraper.py (*PowerShell 7 syntax*)
+   `python .\VergeScraper.py` (*PowerShell 7 syntax*)
 
 ## Files
 
@@ -44,7 +43,10 @@ Web Scraping done using python and beautifulsoup4
 
 This is a fork of [mfakharealam's](https://github.com/mfakharealam/Web-Scraper-using-BeautifulSoup) project.  I'm working to remove the reliance on H2 headers or other CSS attributes as these methods of SEO are being used less on webpages.  This pulls heaadlines and URLs from theverge.com only.    
 
-## Update:7/17/25
+## Update: 7/18/25
+- Word doc output now displays hyperlinked article titles instead of URLs.  Titles are also purple to match the Verge's color scheme.  Updated the PowerShell command in the README that shows how to run the program.
+
+## Update: 7/17/25
 - Intended to work on output formatting in Word. Got no output after retching and running the program.  With sites like the Verge, I assumed this would happen since content is rendered via JavaScript and other methods on  major sites.  Figured this would happen at some point (earlier is better) and had the idea to pivot towards 'scraping' RSS feeds rather than the main site. Created a test program to do that.
    - requires feedparser, installed with `pip install feedparser`
    - https://github.com/kurtmckee/feedparser
