@@ -1,6 +1,6 @@
 # Project Roadmap
 
-## Sprint 1 - 7/14
+## Sprint 1 - Due 7/14
 
 - [x] Choose a project topic and complete Ex 6.
 - [x] Accept invite and join the KSU-IS GitHub organization.
@@ -13,7 +13,7 @@
 
 ---
 
-## Sprint 2 - 7/18
+## Sprint 2 - Due 7/18
 
 - [x] Start coding core project features.
 - [ ] Make at least 6 meaningful code commits (explain each change).
@@ -24,13 +24,13 @@
 
 ---
 
-## Sprint 3 - 7/23
+## Sprint 3 - Due 7/23
 
 - [x] Refine and test project features
-    - [x] create and test Word output
-    - [ ] convert plaintext URLs to hyperlinked URLs within the Word doc
+    - [x] create and test Word output - 7/16
+    - [x] convert plaintext URLs to hyperlinked URLs within the Word doc - 7/17
     - [ ] create and test Word doc formatting (show article titles instead of unlilnked URLs)
-- [/] Expand scope if needed
-- [ ] Update projectroadmap.md with progress
+- [x] Expand scope if needed - 7/17 (moved on from beautifulsoup, now using feedparser since I've moved on from scraping for <a> tags in favor of parsing RSS feeds)
+- [x] Update projectroadmap.md with progress
 - [ ] Create a one-slide PowerPoint introducing the project
 - [ ] Upload slide to D2L and GitHub repository
