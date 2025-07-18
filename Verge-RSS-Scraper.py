@@ -20,7 +20,7 @@ def add_hyperlink(paragraph, text, url):
 
     # Set style manually: blue and underlined
     color = OxmlElement('w:color')
-    color.set(qn('w:val'), '0000FF')
+    color.set(qn('w:val'), '3cffd0') # match some of the color scheme from TheVerge.com
     rPr.append(color)
 
     underline = OxmlElement('w:u')
@@ -45,7 +45,7 @@ entries = feed.entries[:10]
 timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
 filename = f"theverge_headlines_{timestamp}.docx"
 doc = Document()
-doc.add_heading('The Verge Headlines (RSS)', level=1)
+doc.add_heading('Today on The Verge (RSS)', level=1) # better heading
 doc.add_paragraph(f"Scraped on {timestamp}\n")
 
 # Populate document with URLs shown and hyperlinked
