@@ -29,7 +29,7 @@
 - [x] Refine and test project features
     - [x] create and test Word output - 7/16
     - [x] convert plaintext URLs to hyperlinked URLs within the Word doc - 7/17
-    - [ ] create and test Word doc formatting (show article titles instead of unlilnked URLs)
+    - [x] create and test Word doc formatting (show article titles instead of unlilnked URLs)
 - [x] Expand scope if needed - 7/17 (moved on from beautifulsoup, now using feedparser since I've moved on from scraping for <a> tags in favor of parsing RSS feeds)
 - [x] Update projectroadmap.md with progress
 - [ ] Create a one-slide PowerPoint introducing the project
