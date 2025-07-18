@@ -20,7 +20,7 @@ def add_hyperlink(paragraph, text, url):
 
     # Set style manually: blue and underlined
     color = OxmlElement('w:color')
-    color.set(qn('w:val'), '3cffd0') # match some of the color scheme from TheVerge.com
+    color.set(qn('w:val'), '4c02e8') # match the color scheme from TheVerge.com
     rPr.append(color)
 
     underline = OxmlElement('w:u')
@@ -54,7 +54,7 @@ if not entries:
 else:
     for entry in entries:
         p = doc.add_paragraph("\u2022 ")
-        add_hyperlink(p, entry.link, entry.link)
+        add_hyperlink(p, entry.title, entry.link) # display article titles instead of URLs
         print(entry.title, "-", entry.link)
 
 # Save the Word document
