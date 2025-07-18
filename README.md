@@ -38,9 +38,17 @@ VergeScraper is a Python-based web scraper that extracts the latest article head
 - Output CSV files will be named like `theverge_headlines_YYYY-MM-DD_HH-MM.csv`.
 - See [Project Roadmap](ProjectRoadmap.md) for sprint task progress and planning.
 - Ensure you have the required libraries installed: `requests`, `beautifulsoup4`.
-- **Following 7/16 update, code outputs to a Word document instead of csv.  Naming convention is the same except for filetype.**
 
 ## Web-Scraper-using-BeautifulSoup
 Web Scraping done using python and beautifulsoup4
 
 This is a fork of [mfakharealam's](https://github.com/mfakharealam/Web-Scraper-using-BeautifulSoup) project.  I'm working to remove the reliance on H2 headers or other CSS attributes as these methods of SEO are being used less on webpages.  This pulls heaadlines and URLs from theverge.com only.    
+
+## Update:7/17/25
+- Intended to work on output formatting in Word. Got no output after retching and running the program.  With sites like the Verge, I assumed this would happen since content is rendered via JavaScript and other methods on  major sites.  Figured this would happen at some point (earlier is better) and had the idea to pivot towards 'scraping' RSS feeds rather than the main site. Created a test program to do that.
+   - requires feedparser, installed with `pip install feedparser`
+   - https://github.com/kurtmckee/feedparser
+   - at this point, the project is no longer using beautifulsoup/BS4, though it is still scraping a website for content.  
+
+## Update: 7/16/25
+- outputs to a Word document instead of csv.  Naming convention is the same except for filetype.
