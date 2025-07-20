@@ -1,4 +1,4 @@
-# Project Title: VergeScraper
+# Project Title: Verge-RSS-Scraper
 
 Author: Norman McCord  
 Course: IS 3020 Application Development  
