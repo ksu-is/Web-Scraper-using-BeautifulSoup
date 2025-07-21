@@ -16,7 +16,7 @@
 ## Sprint 2 - Due 7/18
 
 - [x] Start coding core project features.
-- [ ] Make at least 6 meaningful code commits (explain each change).
+- [x] Make at least 6 meaningful code commits (explain each change).
 - [x] Use GitHub Desktop or VS Code for commits.
 - [x] Write clear and specific commit messages
 - [x] Track progress in projectroadmap.md using checkboxes
@@ -32,5 +32,5 @@
     - [x] create and test Word doc formatting (show article titles instead of unlilnked URLs)
 - [x] Expand scope if needed - 7/17 (moved on from beautifulsoup, now using feedparser since I've moved on from scraping for <a> tags in favor of parsing RSS feeds)
 - [x] Update projectroadmap.md with progress
-- [ ] Create a one-slide PowerPoint introducing the project
-- [ ] Upload slide to D2L and GitHub repository
+- [x] Create a one-slide PowerPoint introducing the project
+- [x] Upload slide to D2L and GitHub repository
