@@ -43,6 +43,9 @@ Web Scraping done using python and beautifulsoup4
 
 This is a fork of [mfakharealam's](https://github.com/mfakharealam/Web-Scraper-using-BeautifulSoup) project.  I'm working to remove the reliance on H2 headers or other CSS attributes as these methods of SEO are being used less on webpages.  This pulls heaadlines and URLs from theverge.com only.    
 
+## Update: 7/21/25
+- Uploaded a sample ouput Word document and PowerPoint slide describing the program
+
 ## Update: 7/18/25
 - Word doc output now displays hyperlinked article titles instead of URLs.  Titles are also purple to match the Verge's color scheme.  Updated the PowerShell command in the README that shows how to run the program.
 
